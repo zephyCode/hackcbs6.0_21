@@ -1,0 +1,1119 @@
+ For column month_number : 
+-> column month_number and facewash are directly proportional. If month_number increases then facewash increases!
+ and -> column month_number and toothpaste are directly proportional. If month_number increases then toothpaste increases!
+ and -> column month_number and bathingsoap are directly proportional. If month_number increases then bathingsoap increases!
+ and -> column month_number and moisturizer are directly proportional. If month_number increases then moisturizer increases!
+ and -> column month_number and total_units are directly proportional. If month_number increases then total_units increases!
+ and -> column month_number and total_profit are directly proportional. If month_number increases then total_profit increases!
+-> The data might not have any outlier but unsure (kurtosis test)
+-> The data has outliers and vulnerable values as indicated by kurtosis
+-> Minimum value in the column is 1
+Maximum value in the column is 12
+-> 66% of the values are greater then 2.894448724536011 and are less then 10.10555127546399
+-> 6.5 is the average value of this column
+->        month_number
+count     12.000000
+mean       6.500000
+std        3.605551
+min        1.000000
+25%        3.750000
+50%        6.500000
+75%        9.250000
+max       12.000000
+
+----------------- Changing column -------------------
+
+ For column facecream : 
+-> The data might not have any outlier but unsure (kurtosis test)
+-> The data has outliers and vulnerable values as indicated by kurtosis
+-> Minimum value in the column is 1990
+Maximum value in the column is 3700
+-> 58% of the values are greater then 2288.738161311262 and are less then 3457.928505355405
+-> 2873.3333333333335 is the average value of this column
+->          facecream
+count    12.000000
+mean   2873.333333
+std     584.595172
+min    1990.000000
+25%    2460.000000
+50%    2830.000000
+75%    3435.000000
+max    3700.000000
+
+----------------- Changing column -------------------
+
+ For column facewash : 
+-> column facewash and month_number are directly proportional. If facewash increases then month_number increases!
+ and -> column facewash and toothpaste are directly proportional. If facewash increases then toothpaste increases!
+ and -> column facewash and bathingsoap are directly proportional. If facewash increases then bathingsoap increases!
+-> The data might not have any outlier but unsure (kurtosis test)
+-> The data has outliers and vulnerable values as indicated by kurtosis
+-> Minimum value in the column is 1120
+Maximum value in the column is 2100
+-> 58% of the values are greater then 1226.182921777501 and are less then 1859.6504115558325
+-> 1542.9166666666667 is the average value of this column
+->           facewash
+count    12.000000
+mean   1542.916667
+std     316.733745
+min    1120.000000
+25%    1305.000000
+50%    1527.500000
+75%    1765.000000
+max    2100.000000
+
+----------------- Changing column -------------------
+
+ For column toothpaste : 
+-> column toothpaste and month_number are directly proportional. If toothpaste increases then month_number increases!
+ and -> column toothpaste and facewash are directly proportional. If toothpaste increases then facewash increases!
+ and -> column toothpaste and bathingsoap are directly proportional. If toothpaste increases then bathingsoap increases!
+ and -> column toothpaste and moisturizer are directly proportional. If toothpaste increases then moisturizer increases!
+ and -> column toothpaste and total_units are directly proportional. If toothpaste increases then total_units increases!
+ and -> column toothpaste and total_profit are directly proportional. If toothpaste increases then total_profit increases!
+-> The data has outliers as indicated by skewness
+-> The data has outliers and vulnerable values as indicated by kurtosis
+-> Minimum value in the column is 4550
+Maximum value in the column is 8300
+-> 58% of the values are greater then 4583.800847055419 and are less then 7067.865819611247
+-> 5825.833333333333 is the average value of this column
+->         toothpaste
+count    12.000000
+mean   5825.833333
+std    1242.032486
+min    4550.000000
+25%    4862.500000
+50%    5530.000000
+75%    6400.000000
+max    8300.000000
+
+----------------- Changing column -------------------
+
+ For column bathingsoap : 
+-> column bathingsoap and month_number are directly proportional. If bathingsoap increases then month_number increases!
+ and -> column bathingsoap and facewash are directly proportional. If bathingsoap increases then facewash increases!
+ and -> column bathingsoap and toothpaste are directly proportional. If bathingsoap increases then toothpaste increases!
+ and -> column bathingsoap and moisturizer are directly proportional. If bathingsoap increases then moisturizer increases!
+ and -> column bathingsoap and total_units are directly proportional. If bathingsoap increases then total_units increases!
+ and -> column bathingsoap and total_profit are directly proportional. If bathingsoap increases then total_profit increases!
+-> The data has outliers as indicated by skewness
+-> The data has outliers and vulnerable values as indicated by kurtosis
+-> Minimum value in the column is 6100
+Maximum value in the column is 14400
+-> 75% of the values are greater then 7152.737554222356 and are less then 11848.929112444312
+-> 9500.833333333334 is the average value of this column
+->         bathingsoap
+count     12.000000
+mean    9500.833333
+std     2348.095779
+min     6100.000000
+25%     8015.000000
+50%     9090.000000
+75%    10045.000000
+max    14400.000000
+
+----------------- Changing column -------------------
+
+ For column shampoo : 
+-> The data has outliers as indicated by skewness
+-> The data has outliers and vulnerable values as indicated by kurtosis
+-> Minimum value in the column is 1200
+Maximum value in the column is 3550
+-> 75% of the values are greater then 1499.775068570896 and are less then 2735.224931429104
+-> 2117.5 is the average value of this column
+->            shampoo
+count    12.000000
+mean   2117.500000
+std     617.724931
+min    1200.000000
+25%    1795.000000
+50%    1995.000000
+75%    2325.000000
+max    3550.000000
+
+----------------- Changing column -------------------
+
+ For column moisturizer : 
+-> column moisturizer and month_number are directly proportional. If moisturizer increases then month_number increases!
+ and -> column moisturizer and toothpaste are directly proportional. If moisturizer increases then toothpaste increases!
+ and -> column moisturizer and bathingsoap are directly proportional. If moisturizer increases then bathingsoap increases!
+-> The data might not have any outlier but unsure (kurtosis test)
+-> The data has outliers and vulnerable values as indicated by kurtosis
+-> Minimum value in the column is 1120
+Maximum value in the column is 2100
+-> 58% of the values are greater then 1226.182921777501 and are less then 1859.6504115558325
+-> 1542.9166666666667 is the average value of this column
+->        moisturizer
+count    12.000000
+mean   1542.916667
+std     316.733745
+min    1120.000000
+25%    1305.000000
+50%    1527.500000
+75%    1765.000000
+max    2100.000000
+
+----------------- Changing column -------------------
+
+ For column total_units : 
+-> column total_units and month_number are directly proportional. If total_units increases then month_number increases!
+ and -> column total_units and toothpaste are directly proportional. If total_units increases then toothpaste increases!
+ and -> column total_units and bathingsoap are directly proportional. If total_units increases then bathingsoap increases!
+-> The data has outliers as indicated by skewness
+-> The data has outliers and vulnerable values as indicated by kurtosis
+-> Minimum value in the column is 18330
+Maximum value in the column is 41280
+-> 75% of the values are greater then 19013.13405962773 and are less then 33041.86594037227
+-> 26027.5 is the average value of this column
+->        total_units
+count     12.00000
+mean   26027.50000
+std     7014.36594
+min    18330.00000
+25%    21065.00000
+50%    22935.00000
+75%    29667.50000
+max    41280.00000
+
+----------------- Changing column -------------------
+
+ For column total_profit : 
+-> column total_profit and month_number are directly proportional. If total_profit increases then month_number increases!
+ and -> column total_profit and toothpaste are directly proportional. If total_profit increases then toothpaste increases!
+ and -> column total_profit and bathingsoap are directly proportional. If total_profit increases then bathingsoap increases!
+-> The data has outliers as indicated by skewness
+-> The data has outliers and vulnerable values as indicated by kurtosis
+-> Minimum value in the column is 183300
+Maximum value in the column is 412800
+-> 75% of the values are greater then 190131.34059627732 and are less then 330418.6594037227
+-> 260275.0 is the average value of this column
+->         total_profit
+count      12.000000
+mean   260275.000000
+std     70143.659404
+min    183300.000000
+25%    210650.000000
+50%    229350.000000
+75%    296675.000000
+max    412800.000000
+
+----------------- Changing column -------------------
+
+ For column month_number : 
+-> column month_number and facewash are directly proportional. If month_number increases then facewash increases!
+ and -> column month_number and toothpaste are directly proportional. If month_number increases then toothpaste increases!
+ and -> column month_number and bathingsoap are directly proportional. If month_number increases then bathingsoap increases!
+ and -> column month_number and moisturizer are directly proportional. If month_number increases then moisturizer increases!
+ and -> column month_number and total_units are directly proportional. If month_number increases then total_units increases!
+ and -> column month_number and total_profit are directly proportional. If month_number increases then total_profit increases!
+-> The data might not have any outlier but unsure (kurtosis test)
+-> The data has outliers and vulnerable values as indicated by kurtosis
+-> Minimum value in the column is 1
+Maximum value in the column is 12
+-> 66% of the values are greater then 2.894448724536011 and are less then 10.10555127546399
+-> 6.5 is the average value of this column
+->        month_number
+count     12.000000
+mean       6.500000
+std        3.605551
+min        1.000000
+25%        3.750000
+50%        6.500000
+75%        9.250000
+max       12.000000
+
+----------------- Changing column -------------------
+
+ For column facecream : 
+-> The data might not have any outlier but unsure (kurtosis test)
+-> The data has outliers and vulnerable values as indicated by kurtosis
+-> Minimum value in the column is 1990
+Maximum value in the column is 3700
+-> 58% of the values are greater then 2288.738161311262 and are less then 3457.928505355405
+-> 2873.3333333333335 is the average value of this column
+->          facecream
+count    12.000000
+mean   2873.333333
+std     584.595172
+min    1990.000000
+25%    2460.000000
+50%    2830.000000
+75%    3435.000000
+max    3700.000000
+
+----------------- Changing column -------------------
+
+ For column facewash : 
+-> column facewash and month_number are directly proportional. If facewash increases then month_number increases!
+ and -> column facewash and toothpaste are directly proportional. If facewash increases then toothpaste increases!
+ and -> column facewash and bathingsoap are directly proportional. If facewash increases then bathingsoap increases!
+-> The data might not have any outlier but unsure (kurtosis test)
+-> The data has outliers and vulnerable values as indicated by kurtosis
+-> Minimum value in the column is 1120
+Maximum value in the column is 2100
+-> 58% of the values are greater then 1226.182921777501 and are less then 1859.6504115558325
+-> 1542.9166666666667 is the average value of this column
+->           facewash
+count    12.000000
+mean   1542.916667
+std     316.733745
+min    1120.000000
+25%    1305.000000
+50%    1527.500000
+75%    1765.000000
+max    2100.000000
+
+----------------- Changing column -------------------
+
+ For column toothpaste : 
+-> column toothpaste and month_number are directly proportional. If toothpaste increases then month_number increases!
+ and -> column toothpaste and facewash are directly proportional. If toothpaste increases then facewash increases!
+ and -> column toothpaste and bathingsoap are directly proportional. If toothpaste increases then bathingsoap increases!
+ and -> column toothpaste and moisturizer are directly proportional. If toothpaste increases then moisturizer increases!
+ and -> column toothpaste and total_units are directly proportional. If toothpaste increases then total_units increases!
+ and -> column toothpaste and total_profit are directly proportional. If toothpaste increases then total_profit increases!
+-> The data has outliers as indicated by skewness
+-> The data has outliers and vulnerable values as indicated by kurtosis
+-> Minimum value in the column is 4550
+Maximum value in the column is 8300
+-> 58% of the values are greater then 4583.800847055419 and are less then 7067.865819611247
+-> 5825.833333333333 is the average value of this column
+->         toothpaste
+count    12.000000
+mean   5825.833333
+std    1242.032486
+min    4550.000000
+25%    4862.500000
+50%    5530.000000
+75%    6400.000000
+max    8300.000000
+
+----------------- Changing column -------------------
+
+ For column bathingsoap : 
+-> column bathingsoap and month_number are directly proportional. If bathingsoap increases then month_number increases!
+ and -> column bathingsoap and facewash are directly proportional. If bathingsoap increases then facewash increases!
+ and -> column bathingsoap and toothpaste are directly proportional. If bathingsoap increases then toothpaste increases!
+ and -> column bathingsoap and moisturizer are directly proportional. If bathingsoap increases then moisturizer increases!
+ and -> column bathingsoap and total_units are directly proportional. If bathingsoap increases then total_units increases!
+ and -> column bathingsoap and total_profit are directly proportional. If bathingsoap increases then total_profit increases!
+-> The data has outliers as indicated by skewness
+-> The data has outliers and vulnerable values as indicated by kurtosis
+-> Minimum value in the column is 6100
+Maximum value in the column is 14400
+-> 75% of the values are greater then 7152.737554222356 and are less then 11848.929112444312
+-> 9500.833333333334 is the average value of this column
+->         bathingsoap
+count     12.000000
+mean    9500.833333
+std     2348.095779
+min     6100.000000
+25%     8015.000000
+50%     9090.000000
+75%    10045.000000
+max    14400.000000
+
+----------------- Changing column -------------------
+
+ For column shampoo : 
+-> The data has outliers as indicated by skewness
+-> The data has outliers and vulnerable values as indicated by kurtosis
+-> Minimum value in the column is 1200
+Maximum value in the column is 3550
+-> 75% of the values are greater then 1499.775068570896 and are less then 2735.224931429104
+-> 2117.5 is the average value of this column
+->            shampoo
+count    12.000000
+mean   2117.500000
+std     617.724931
+min    1200.000000
+25%    1795.000000
+50%    1995.000000
+75%    2325.000000
+max    3550.000000
+
+----------------- Changing column -------------------
+
+ For column moisturizer : 
+-> column moisturizer and month_number are directly proportional. If moisturizer increases then month_number increases!
+ and -> column moisturizer and toothpaste are directly proportional. If moisturizer increases then toothpaste increases!
+ and -> column moisturizer and bathingsoap are directly proportional. If moisturizer increases then bathingsoap increases!
+-> The data might not have any outlier but unsure (kurtosis test)
+-> The data has outliers and vulnerable values as indicated by kurtosis
+-> Minimum value in the column is 1120
+Maximum value in the column is 2100
+-> 58% of the values are greater then 1226.182921777501 and are less then 1859.6504115558325
+-> 1542.9166666666667 is the average value of this column
+->        moisturizer
+count    12.000000
+mean   1542.916667
+std     316.733745
+min    1120.000000
+25%    1305.000000
+50%    1527.500000
+75%    1765.000000
+max    2100.000000
+
+----------------- Changing column -------------------
+
+ For column total_units : 
+-> column total_units and month_number are directly proportional. If total_units increases then month_number increases!
+ and -> column total_units and toothpaste are directly proportional. If total_units increases then toothpaste increases!
+ and -> column total_units and bathingsoap are directly proportional. If total_units increases then bathingsoap increases!
+-> The data has outliers as indicated by skewness
+-> The data has outliers and vulnerable values as indicated by kurtosis
+-> Minimum value in the column is 18330
+Maximum value in the column is 41280
+-> 75% of the values are greater then 19013.13405962773 and are less then 33041.86594037227
+-> 26027.5 is the average value of this column
+->        total_units
+count     12.00000
+mean   26027.50000
+std     7014.36594
+min    18330.00000
+25%    21065.00000
+50%    22935.00000
+75%    29667.50000
+max    41280.00000
+
+----------------- Changing column -------------------
+
+ For column total_profit : 
+-> column total_profit and month_number are directly proportional. If total_profit increases then month_number increases!
+ and -> column total_profit and toothpaste are directly proportional. If total_profit increases then toothpaste increases!
+ and -> column total_profit and bathingsoap are directly proportional. If total_profit increases then bathingsoap increases!
+-> The data has outliers as indicated by skewness
+-> The data has outliers and vulnerable values as indicated by kurtosis
+-> Minimum value in the column is 183300
+Maximum value in the column is 412800
+-> 75% of the values are greater then 190131.34059627732 and are less then 330418.6594037227
+-> 260275.0 is the average value of this column
+->         total_profit
+count      12.000000
+mean   260275.000000
+std     70143.659404
+min    183300.000000
+25%    210650.000000
+50%    229350.000000
+75%    296675.000000
+max    412800.000000
+
+----------------- Changing column -------------------
+
+ For column month_number : 
+-> column month_number and facewash are directly proportional. If month_number increases then facewash increases!
+ and -> column month_number and toothpaste are directly proportional. If month_number increases then toothpaste increases!
+ and -> column month_number and bathingsoap are directly proportional. If month_number increases then bathingsoap increases!
+ and -> column month_number and moisturizer are directly proportional. If month_number increases then moisturizer increases!
+ and -> column month_number and total_units are directly proportional. If month_number increases then total_units increases!
+ and -> column month_number and total_profit are directly proportional. If month_number increases then total_profit increases!
+-> The data might not have any outlier but unsure (kurtosis test)
+-> The data has outliers and vulnerable values as indicated by kurtosis
+-> Minimum value in the column is 1
+Maximum value in the column is 12
+-> 66% of the values are greater then 2.894448724536011 and are less then 10.10555127546399
+-> 6.5 is the average value of this column
+->        month_number
+count     12.000000
+mean       6.500000
+std        3.605551
+min        1.000000
+25%        3.750000
+50%        6.500000
+75%        9.250000
+max       12.000000
+
+----------------- Changing column -------------------
+
+ For column facecream : 
+-> The data might not have any outlier but unsure (kurtosis test)
+-> The data has outliers and vulnerable values as indicated by kurtosis
+-> Minimum value in the column is 1990
+Maximum value in the column is 3700
+-> 58% of the values are greater then 2288.738161311262 and are less then 3457.928505355405
+-> 2873.3333333333335 is the average value of this column
+->          facecream
+count    12.000000
+mean   2873.333333
+std     584.595172
+min    1990.000000
+25%    2460.000000
+50%    2830.000000
+75%    3435.000000
+max    3700.000000
+
+----------------- Changing column -------------------
+
+ For column facewash : 
+-> column facewash and month_number are directly proportional. If facewash increases then month_number increases!
+ and -> column facewash and toothpaste are directly proportional. If facewash increases then toothpaste increases!
+ and -> column facewash and bathingsoap are directly proportional. If facewash increases then bathingsoap increases!
+-> The data might not have any outlier but unsure (kurtosis test)
+-> The data has outliers and vulnerable values as indicated by kurtosis
+-> Minimum value in the column is 1120
+Maximum value in the column is 2100
+-> 58% of the values are greater then 1226.182921777501 and are less then 1859.6504115558325
+-> 1542.9166666666667 is the average value of this column
+->           facewash
+count    12.000000
+mean   1542.916667
+std     316.733745
+min    1120.000000
+25%    1305.000000
+50%    1527.500000
+75%    1765.000000
+max    2100.000000
+
+----------------- Changing column -------------------
+
+ For column toothpaste : 
+-> column toothpaste and month_number are directly proportional. If toothpaste increases then month_number increases!
+ and -> column toothpaste and facewash are directly proportional. If toothpaste increases then facewash increases!
+ and -> column toothpaste and bathingsoap are directly proportional. If toothpaste increases then bathingsoap increases!
+ and -> column toothpaste and moisturizer are directly proportional. If toothpaste increases then moisturizer increases!
+ and -> column toothpaste and total_units are directly proportional. If toothpaste increases then total_units increases!
+ and -> column toothpaste and total_profit are directly proportional. If toothpaste increases then total_profit increases!
+-> The data has outliers as indicated by skewness
+-> The data has outliers and vulnerable values as indicated by kurtosis
+-> Minimum value in the column is 4550
+Maximum value in the column is 8300
+-> 58% of the values are greater then 4583.800847055419 and are less then 7067.865819611247
+-> 5825.833333333333 is the average value of this column
+->         toothpaste
+count    12.000000
+mean   5825.833333
+std    1242.032486
+min    4550.000000
+25%    4862.500000
+50%    5530.000000
+75%    6400.000000
+max    8300.000000
+
+----------------- Changing column -------------------
+
+ For column bathingsoap : 
+-> column bathingsoap and month_number are directly proportional. If bathingsoap increases then month_number increases!
+ and -> column bathingsoap and facewash are directly proportional. If bathingsoap increases then facewash increases!
+ and -> column bathingsoap and toothpaste are directly proportional. If bathingsoap increases then toothpaste increases!
+ and -> column bathingsoap and moisturizer are directly proportional. If bathingsoap increases then moisturizer increases!
+ and -> column bathingsoap and total_units are directly proportional. If bathingsoap increases then total_units increases!
+ and -> column bathingsoap and total_profit are directly proportional. If bathingsoap increases then total_profit increases!
+-> The data has outliers as indicated by skewness
+-> The data has outliers and vulnerable values as indicated by kurtosis
+-> Minimum value in the column is 6100
+Maximum value in the column is 14400
+-> 75% of the values are greater then 7152.737554222356 and are less then 11848.929112444312
+-> 9500.833333333334 is the average value of this column
+->         bathingsoap
+count     12.000000
+mean    9500.833333
+std     2348.095779
+min     6100.000000
+25%     8015.000000
+50%     9090.000000
+75%    10045.000000
+max    14400.000000
+
+----------------- Changing column -------------------
+
+ For column shampoo : 
+-> The data has outliers as indicated by skewness
+-> The data has outliers and vulnerable values as indicated by kurtosis
+-> Minimum value in the column is 1200
+Maximum value in the column is 3550
+-> 75% of the values are greater then 1499.775068570896 and are less then 2735.224931429104
+-> 2117.5 is the average value of this column
+->            shampoo
+count    12.000000
+mean   2117.500000
+std     617.724931
+min    1200.000000
+25%    1795.000000
+50%    1995.000000
+75%    2325.000000
+max    3550.000000
+
+----------------- Changing column -------------------
+
+ For column moisturizer : 
+-> column moisturizer and month_number are directly proportional. If moisturizer increases then month_number increases!
+ and -> column moisturizer and toothpaste are directly proportional. If moisturizer increases then toothpaste increases!
+ and -> column moisturizer and bathingsoap are directly proportional. If moisturizer increases then bathingsoap increases!
+-> The data might not have any outlier but unsure (kurtosis test)
+-> The data has outliers and vulnerable values as indicated by kurtosis
+-> Minimum value in the column is 1120
+Maximum value in the column is 2100
+-> 58% of the values are greater then 1226.182921777501 and are less then 1859.6504115558325
+-> 1542.9166666666667 is the average value of this column
+->        moisturizer
+count    12.000000
+mean   1542.916667
+std     316.733745
+min    1120.000000
+25%    1305.000000
+50%    1527.500000
+75%    1765.000000
+max    2100.000000
+
+----------------- Changing column -------------------
+
+ For column total_units : 
+-> column total_units and month_number are directly proportional. If total_units increases then month_number increases!
+ and -> column total_units and toothpaste are directly proportional. If total_units increases then toothpaste increases!
+ and -> column total_units and bathingsoap are directly proportional. If total_units increases then bathingsoap increases!
+-> The data has outliers as indicated by skewness
+-> The data has outliers and vulnerable values as indicated by kurtosis
+-> Minimum value in the column is 18330
+Maximum value in the column is 41280
+-> 75% of the values are greater then 19013.13405962773 and are less then 33041.86594037227
+-> 26027.5 is the average value of this column
+->        total_units
+count     12.00000
+mean   26027.50000
+std     7014.36594
+min    18330.00000
+25%    21065.00000
+50%    22935.00000
+75%    29667.50000
+max    41280.00000
+
+----------------- Changing column -------------------
+
+ For column total_profit : 
+-> column total_profit and month_number are directly proportional. If total_profit increases then month_number increases!
+ and -> column total_profit and toothpaste are directly proportional. If total_profit increases then toothpaste increases!
+ and -> column total_profit and bathingsoap are directly proportional. If total_profit increases then bathingsoap increases!
+-> The data has outliers as indicated by skewness
+-> The data has outliers and vulnerable values as indicated by kurtosis
+-> Minimum value in the column is 183300
+Maximum value in the column is 412800
+-> 75% of the values are greater then 190131.34059627732 and are less then 330418.6594037227
+-> 260275.0 is the average value of this column
+->         total_profit
+count      12.000000
+mean   260275.000000
+std     70143.659404
+min    183300.000000
+25%    210650.000000
+50%    229350.000000
+75%    296675.000000
+max    412800.000000
+
+----------------- Changing column -------------------
+
+ For column PassengerId : 
+-> The data might not have any outlier but unsure (kurtosis test)
+-> The data has outliers and vulnerable values as indicated by kurtosis
+-> Minimum value in the column is 2
+Maximum value in the column is 890
+-> 60% of the values are greater then 208.31364470165505 and are less then 702.4185957355035
+-> 455.3661202185792 is the average value of this column
+->        PassengerId
+count   183.000000
+mean    455.366120
+std     247.052476
+min       2.000000
+25%     263.500000
+50%     457.000000
+75%     676.000000
+max     890.000000
+
+----------------- Changing column -------------------
+
+ For column Survived : 
+-> The data has outliers as indicated by skewness
+-> Minimum value in the column is 0
+Maximum value in the column is 1
+-> 67% of the values are greater then 0.2014064966127227 and are less then 1.1428557984692445
+-> 0.6721311475409836 is the average value of this column
+->          Survived
+count  183.000000
+mean     0.672131
+std      0.470725
+min      0.000000
+25%      0.000000
+50%      1.000000
+75%      1.000000
+max      1.000000
+
+----------------- Changing column -------------------
+
+ For column Pclass : 
+-> The data has outliers as indicated by skewness
+-> Minimum value in the column is 1
+Maximum value in the column is 3
+-> 86% of the values are greater then 0.6760698330295094 and are less then 1.7064438281726764
+-> 1.1912568306010929 is the average value of this column
+->            Pclass
+count  183.000000
+mean     1.191257
+std      0.515187
+min      1.000000
+25%      1.000000
+50%      1.000000
+75%      1.000000
+max      3.000000
+
+----------------- Changing column -------------------
+
+ For column Age : 
+-> The data might not have any outlier but unsure (kurtosis test)
+-> The data has outliers and vulnerable values as indicated by kurtosis
+-> Minimum value in the column is 0.92
+Maximum value in the column is 80.0
+-> 67% of the values are greater then 20.030560262658483 and are less then 51.318292196357916
+-> 35.6744262295082 is the average value of this column
+->               Age
+count  183.000000
+mean    35.674426
+std     15.643866
+min      0.920000
+25%     24.000000
+50%     36.000000
+75%     47.500000
+max     80.000000
+
+----------------- Changing column -------------------
+
+ For column SibSp : 
+-> The data has outliers as indicated by skewness
+-> Minimum value in the column is 0
+Maximum value in the column is 3
+-> 95% of the values are greater then -0.1796776861367924 and are less then 1.1086394347706723
+-> 0.4644808743169399 is the average value of this column
+->             SibSp
+count  183.000000
+mean     0.464481
+std      0.644159
+min      0.000000
+25%      0.000000
+50%      0.000000
+75%      1.000000
+max      3.000000
+
+----------------- Changing column -------------------
+
+ For column Parch : 
+-> The data has outliers as indicated by skewness
+-> Minimum value in the column is 0
+Maximum value in the column is 4
+-> 86% of the values are greater then -0.2792072499430369 and are less then 1.2300269220741844
+-> 0.47540983606557374 is the average value of this column
+->             Parch
+count  183.000000
+mean     0.475410
+std      0.754617
+min      0.000000
+25%      0.000000
+50%      0.000000
+75%      1.000000
+max      4.000000
+
+----------------- Changing column -------------------
+
+ For column Fare : 
+-> The data has outliers as indicated by skewness
+-> The data has outliers and vulnerable values as indicated by kurtosis
+-> Minimum value in the column is 0.0
+Maximum value in the column is 512.3292
+-> 89% of the values are greater then 2.3346261520533034 and are less then 155.0303115528647
+-> 78.68246885245901 is the average value of this column
+->              Fare
+count  183.000000
+mean    78.682469
+std     76.347843
+min      0.000000
+25%     29.700000
+50%     57.000000
+75%     90.000000
+max    512.329200
+
+----------------- Changing column -------------------
+
+ For column PassengerId : 
+-> The data might not have any outlier but unsure (kurtosis test)
+-> The data has outliers and vulnerable values as indicated by kurtosis
+-> Minimum value in the column is 2
+Maximum value in the column is 890
+-> 60% of the values are greater then 208.31364470165505 and are less then 702.4185957355035
+-> 455.3661202185792 is the average value of this column
+->        PassengerId
+count   183.000000
+mean    455.366120
+std     247.052476
+min       2.000000
+25%     263.500000
+50%     457.000000
+75%     676.000000
+max     890.000000
+
+----------------- Changing column -------------------
+
+ For column Survived : 
+-> The data has outliers as indicated by skewness
+-> Minimum value in the column is 0
+Maximum value in the column is 1
+-> 67% of the values are greater then 0.2014064966127227 and are less then 1.1428557984692445
+-> 0.6721311475409836 is the average value of this column
+->          Survived
+count  183.000000
+mean     0.672131
+std      0.470725
+min      0.000000
+25%      0.000000
+50%      1.000000
+75%      1.000000
+max      1.000000
+
+----------------- Changing column -------------------
+
+ For column Pclass : 
+-> The data has outliers as indicated by skewness
+-> Minimum value in the column is 1
+Maximum value in the column is 3
+-> 86% of the values are greater then 0.6760698330295094 and are less then 1.7064438281726764
+-> 1.1912568306010929 is the average value of this column
+->            Pclass
+count  183.000000
+mean     1.191257
+std      0.515187
+min      1.000000
+25%      1.000000
+50%      1.000000
+75%      1.000000
+max      3.000000
+
+----------------- Changing column -------------------
+
+ For column Age : 
+-> The data might not have any outlier but unsure (kurtosis test)
+-> The data has outliers and vulnerable values as indicated by kurtosis
+-> Minimum value in the column is 0.92
+Maximum value in the column is 80.0
+-> 67% of the values are greater then 20.030560262658483 and are less then 51.318292196357916
+-> 35.6744262295082 is the average value of this column
+->               Age
+count  183.000000
+mean    35.674426
+std     15.643866
+min      0.920000
+25%     24.000000
+50%     36.000000
+75%     47.500000
+max     80.000000
+
+----------------- Changing column -------------------
+
+ For column SibSp : 
+-> The data has outliers as indicated by skewness
+-> Minimum value in the column is 0
+Maximum value in the column is 3
+-> 95% of the values are greater then -0.1796776861367924 and are less then 1.1086394347706723
+-> 0.4644808743169399 is the average value of this column
+->             SibSp
+count  183.000000
+mean     0.464481
+std      0.644159
+min      0.000000
+25%      0.000000
+50%      0.000000
+75%      1.000000
+max      3.000000
+
+----------------- Changing column -------------------
+
+ For column Parch : 
+-> The data has outliers as indicated by skewness
+-> Minimum value in the column is 0
+Maximum value in the column is 4
+-> 86% of the values are greater then -0.2792072499430369 and are less then 1.2300269220741844
+-> 0.47540983606557374 is the average value of this column
+->             Parch
+count  183.000000
+mean     0.475410
+std      0.754617
+min      0.000000
+25%      0.000000
+50%      0.000000
+75%      1.000000
+max      4.000000
+
+----------------- Changing column -------------------
+
+ For column Fare : 
+-> The data has outliers as indicated by skewness
+-> The data has outliers and vulnerable values as indicated by kurtosis
+-> Minimum value in the column is 0.0
+Maximum value in the column is 512.3292
+-> 89% of the values are greater then 2.3346261520533034 and are less then 155.0303115528647
+-> 78.68246885245901 is the average value of this column
+->              Fare
+count  183.000000
+mean    78.682469
+std     76.347843
+min      0.000000
+25%     29.700000
+50%     57.000000
+75%     90.000000
+max    512.329200
+
+----------------- Changing column -------------------
+
+ For column PassengerId : 
+-> The data might not have any outlier but unsure (kurtosis test)
+-> The data has outliers and vulnerable values as indicated by kurtosis
+-> Minimum value in the column is 2
+Maximum value in the column is 890
+-> 60% of the values are greater then 208.31364470165505 and are less then 702.4185957355035
+-> 455.3661202185792 is the average value of this column
+->        PassengerId
+count   183.000000
+mean    455.366120
+std     247.052476
+min       2.000000
+25%     263.500000
+50%     457.000000
+75%     676.000000
+max     890.000000
+
+----------------- Changing column -------------------
+
+ For column Survived : 
+-> The data has outliers as indicated by skewness
+-> Minimum value in the column is 0
+Maximum value in the column is 1
+-> 67% of the values are greater then 0.2014064966127227 and are less then 1.1428557984692445
+-> 0.6721311475409836 is the average value of this column
+->          Survived
+count  183.000000
+mean     0.672131
+std      0.470725
+min      0.000000
+25%      0.000000
+50%      1.000000
+75%      1.000000
+max      1.000000
+
+----------------- Changing column -------------------
+
+ For column Pclass : 
+-> The data has outliers as indicated by skewness
+-> Minimum value in the column is 1
+Maximum value in the column is 3
+-> 86% of the values are greater then 0.6760698330295094 and are less then 1.7064438281726764
+-> 1.1912568306010929 is the average value of this column
+->            Pclass
+count  183.000000
+mean     1.191257
+std      0.515187
+min      1.000000
+25%      1.000000
+50%      1.000000
+75%      1.000000
+max      3.000000
+
+----------------- Changing column -------------------
+
+ For column Age : 
+-> The data might not have any outlier but unsure (kurtosis test)
+-> The data has outliers and vulnerable values as indicated by kurtosis
+-> Minimum value in the column is 0.92
+Maximum value in the column is 80.0
+-> 67% of the values are greater then 20.030560262658483 and are less then 51.318292196357916
+-> 35.6744262295082 is the average value of this column
+->               Age
+count  183.000000
+mean    35.674426
+std     15.643866
+min      0.920000
+25%     24.000000
+50%     36.000000
+75%     47.500000
+max     80.000000
+
+----------------- Changing column -------------------
+
+ For column SibSp : 
+-> The data has outliers as indicated by skewness
+-> Minimum value in the column is 0
+Maximum value in the column is 3
+-> 95% of the values are greater then -0.1796776861367924 and are less then 1.1086394347706723
+-> 0.4644808743169399 is the average value of this column
+->             SibSp
+count  183.000000
+mean     0.464481
+std      0.644159
+min      0.000000
+25%      0.000000
+50%      0.000000
+75%      1.000000
+max      3.000000
+
+----------------- Changing column -------------------
+
+ For column Parch : 
+-> The data has outliers as indicated by skewness
+-> Minimum value in the column is 0
+Maximum value in the column is 4
+-> 86% of the values are greater then -0.2792072499430369 and are less then 1.2300269220741844
+-> 0.47540983606557374 is the average value of this column
+->             Parch
+count  183.000000
+mean     0.475410
+std      0.754617
+min      0.000000
+25%      0.000000
+50%      0.000000
+75%      1.000000
+max      4.000000
+
+----------------- Changing column -------------------
+
+ For column Fare : 
+-> The data has outliers as indicated by skewness
+-> The data has outliers and vulnerable values as indicated by kurtosis
+-> Minimum value in the column is 0.0
+Maximum value in the column is 512.3292
+-> 89% of the values are greater then 2.3346261520533034 and are less then 155.0303115528647
+-> 78.68246885245901 is the average value of this column
+->              Fare
+count  183.000000
+mean    78.682469
+std     76.347843
+min      0.000000
+25%     29.700000
+50%     57.000000
+75%     90.000000
+max    512.329200
+
+----------------- Changing column -------------------
+
+ For column PassengerId : 
+-> The data might not have any outlier but unsure (kurtosis test)
+-> The data has outliers and vulnerable values as indicated by kurtosis
+-> Minimum value in the column is 2
+Maximum value in the column is 890
+-> 60% of the values are greater then 208.31364470165505 and are less then 702.4185957355035
+-> 455.3661202185792 is the average value of this column
+->        PassengerId
+count   183.000000
+mean    455.366120
+std     247.052476
+min       2.000000
+25%     263.500000
+50%     457.000000
+75%     676.000000
+max     890.000000
+
+----------------- Changing column -------------------
+
+ For column Survived : 
+-> The data has outliers as indicated by skewness
+-> Minimum value in the column is 0
+Maximum value in the column is 1
+-> 67% of the values are greater then 0.2014064966127227 and are less then 1.1428557984692445
+-> 0.6721311475409836 is the average value of this column
+->          Survived
+count  183.000000
+mean     0.672131
+std      0.470725
+min      0.000000
+25%      0.000000
+50%      1.000000
+75%      1.000000
+max      1.000000
+
+----------------- Changing column -------------------
+
+ For column Pclass : 
+-> The data has outliers as indicated by skewness
+-> Minimum value in the column is 1
+Maximum value in the column is 3
+-> 86% of the values are greater then 0.6760698330295094 and are less then 1.7064438281726764
+-> 1.1912568306010929 is the average value of this column
+->            Pclass
+count  183.000000
+mean     1.191257
+std      0.515187
+min      1.000000
+25%      1.000000
+50%      1.000000
+75%      1.000000
+max      3.000000
+
+----------------- Changing column -------------------
+
+ For column Age : 
+-> The data might not have any outlier but unsure (kurtosis test)
+-> The data has outliers and vulnerable values as indicated by kurtosis
+-> Minimum value in the column is 0.92
+Maximum value in the column is 80.0
+-> 67% of the values are greater then 20.030560262658483 and are less then 51.318292196357916
+-> 35.6744262295082 is the average value of this column
+->               Age
+count  183.000000
+mean    35.674426
+std     15.643866
+min      0.920000
+25%     24.000000
+50%     36.000000
+75%     47.500000
+max     80.000000
+
+----------------- Changing column -------------------
+
+ For column SibSp : 
+-> The data has outliers as indicated by skewness
+-> Minimum value in the column is 0
+Maximum value in the column is 3
+-> 95% of the values are greater then -0.1796776861367924 and are less then 1.1086394347706723
+-> 0.4644808743169399 is the average value of this column
+->             SibSp
+count  183.000000
+mean     0.464481
+std      0.644159
+min      0.000000
+25%      0.000000
+50%      0.000000
+75%      1.000000
+max      3.000000
+
+----------------- Changing column -------------------
+
+ For column Parch : 
+-> The data has outliers as indicated by skewness
+-> Minimum value in the column is 0
+Maximum value in the column is 4
+-> 86% of the values are greater then -0.2792072499430369 and are less then 1.2300269220741844
+-> 0.47540983606557374 is the average value of this column
+->             Parch
+count  183.000000
+mean     0.475410
+std      0.754617
+min      0.000000
+25%      0.000000
+50%      0.000000
+75%      1.000000
+max      4.000000
+
+----------------- Changing column -------------------
+
+ For column Fare : 
+-> The data has outliers as indicated by skewness
+-> The data has outliers and vulnerable values as indicated by kurtosis
+-> Minimum value in the column is 0.0
+Maximum value in the column is 512.3292
+-> 89% of the values are greater then 2.3346261520533034 and are less then 155.0303115528647
+-> 78.68246885245901 is the average value of this column
+->              Fare
+count  183.000000
+mean    78.682469
+std     76.347843
+min      0.000000
+25%     29.700000
+50%     57.000000
+75%     90.000000
+max    512.329200
+
+----------------- Changing column -------------------
+
